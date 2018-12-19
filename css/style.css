@@ -21,6 +21,24 @@ h5 {
   margin: 25px;
 }
 
+.hire-me {
+  background-color: #6ec1e4;
+  border-radius: 5%;  
+  border: 2px solid white;
+  font-size: 20px;
+  height: 35px;
+  width: 150px; 
+}
+
+.hire-me a {
+  color: white;  
+}
+
+.hire-me a:hover {
+  color: #052D6E;
+  text-decoration: none;
+}
+
 
 
 
