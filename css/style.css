@@ -39,6 +39,36 @@ h5 {
   text-decoration: none;
 }
 
+nav ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-left: -15px;
+  background-color: #6ec1e4;
+  z-index: 9;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  float: left;
+}
+
+nav ul li a:hover {
+  color: #052D6E;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
