@@ -59,6 +59,20 @@ nav ul li a:hover {
   text-decoration: none;
 }
 
+ul {
+  list-style-type: none;
+  padding: 20px 15px;
+  text-align: center;
+}
+
+
+li {
+  display: inline-block;
+  margin: 0px;
+  padding: 10px;
+}
+
+
 
 
 
