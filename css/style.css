@@ -72,6 +72,13 @@ li {
   padding: 10px;
 }
 
+#welcome-section {
+  padding-top: 75px;
+  margin-top: 125px;
+  display: block;
+  height: 100vh;
+}
+
 
 
 
