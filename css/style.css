@@ -96,6 +96,27 @@ li {
   margin-top: 150px;
 }
 
+.project-title {
+  color: #052D6E; 
+  overflow: hidden;  
+}
+
+.project-img {
+  width: 35% auto;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
