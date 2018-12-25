@@ -117,6 +117,17 @@ li {
   margin-bottom: 50px;
 }
 
+.fab:before {
+	display: inline-block;
+	font: 2em "FontAwesome", sans-serif;
+  color: #052D6E;
+ }
+ 
+ .fa-heading:before {
+	color: #40185b;
+}
+ 
+
 
 
 
