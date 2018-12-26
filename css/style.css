@@ -126,6 +126,13 @@ li {
  .fa-heading:before {
 	color: #40185b;
 }
+
+@media screen and (max-width: 367px) {
+    #comments {
+        width: 80%;
+    }
+}
+
  
 
 
